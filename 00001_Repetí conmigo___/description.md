@@ -27,7 +27,7 @@ Tenemos dos tablas:
   ]'>
 </div>
 
-Como verás, algunos campos de la tabla de canciones se repiten en la de los artistas. ¿Qué sucedería si cambiáramos, por ejemplo, el **género** de una de las bandas?
+Como verás, algunos campos de la tabla de canciones se repiten en la de les artistas. ¿Qué sucedería si cambiáramos, por ejemplo, el **género** de una de las bandas?
 
 ``` sql
 UPDATE artistas
