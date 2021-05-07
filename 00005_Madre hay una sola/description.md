@@ -6,8 +6,8 @@ En el DER las _relaciones_ se las representa por la línea que ves entre las tab
 
 En el ejemplo de las canciones se leería así: 
 
-* Una canción se relaciona (tiene) con uno y solo un artista. Ojo: pueden haber varias canciones que compartan al mismo artista.
-* Un artista se relaciona (tiene) con muchas canciones.  
+* Una canción se relaciona (tiene) con une y solo une artista. Ojo: pueden haber varias canciones que compartan le misme artista.
+* Une artista se relaciona (tiene) con muchas canciones.  
 
 > ¿Cómo se leería la siguiente relación?
 
@@ -23,12 +23,12 @@ En el ejemplo de las canciones se leería así:
         "type": "Text"
       }
     },
-    "hijos": {
-      "id_hijo": {
+    "hijes": {
+      "id_hije": {
         "type": "Integer",
         "pk": true
       },
-      "nombre_hijo": {
+      "nombre_hije": {
         "type": "Text"
       },
      "id_madre": {

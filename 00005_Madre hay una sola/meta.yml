@@ -6,18 +6,19 @@ editor: multiple_choice
 type: problem
 extra_visible: false
 language: text
+teacher_info: ''
 manual_evaluation: false
 choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Un hijo tiene muchas madres.
+  value: Une hije tiene muchas madres.
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Uno (y quizás varios) hijo/s tiene/n una madre.
+  value: Une (y quizás varies) hije/s tiene/n una madre.
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Una madre tiene muchos hijos.
+  value: Una madre tiene muchos hijes.
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Muchas madres tienen un mismo hijo.
+  value: Muchas madres tienen une misme hije.
   checked: false
 name: Madre hay una sola
