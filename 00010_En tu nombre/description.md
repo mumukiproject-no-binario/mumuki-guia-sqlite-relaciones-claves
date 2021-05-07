@@ -39,7 +39,7 @@ Ahora probalo vos.
         "type": "Integer",
         "pk": true
       },
-      "actriz_actor":{
+      "actore":{
         "type": "Text"
       }
     }
