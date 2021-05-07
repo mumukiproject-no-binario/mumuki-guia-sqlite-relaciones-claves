@@ -3,7 +3,7 @@ Dejemos de lado por un rato las series y películas. Pensemos en las aplicacione
 Tenemos dos tablas: 
 
 * una que guarda toda la lista de canciones, con el detalle de cada una,
-* y otra que contiene a los autores también con información relevante de ellos:
+* y otra que contiene a les autores también con información relevante de elles:
 
 <div
   class='mu-sql-table'
