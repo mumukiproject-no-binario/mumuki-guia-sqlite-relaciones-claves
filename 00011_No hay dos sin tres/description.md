@@ -1,6 +1,6 @@
-¡Espectacular! Ya estamos listos para ponerle el pecho a lo que se venga.
+¡Espectacular! Ya estamos listes para ponerle el pecho a lo que se venga.
 
-> Consultá los actores y actrices que participen en películas con puntaje mayor a 9. Procurá que no se repitan los resultados.
+> Consultá les actores que participen en películas con puntaje mayor a 9. Procurá que no se repitan los resultados.
 
 <div
   class='mu-sql-table'
@@ -29,7 +29,7 @@
 <div
   class='mu-sql-table'
   data-name='personajes'
-  data-columns='[{"name": "id_personaje", "pk": true}, "actriz_actor"]'
+  data-columns='[{"name": "id_personaje", "pk": true}, "actore"]'
   data-rows='[
     [1, "Jennifer Lawrence"],
     [2, "Sam Claflin"],

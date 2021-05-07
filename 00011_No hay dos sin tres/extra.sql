@@ -1,6 +1,6 @@
 CREATE TABLE series_peliculas (id_contenido INTEGER PRIMARY KEY, titulo TEXT, puntaje REAL);
 
-CREATE TABLE personajes (id_personaje INTEGER PRIMARY KEY, actriz_actor TEXT);
+CREATE TABLE personajes (id_personaje INTEGER PRIMARY KEY, actore TEXT);
 
 CREATE TABLE personaje_por_contenido (id_contenido INTEGER NOT NULL, 
   id_personaje INTEGER NOT NULL, 
