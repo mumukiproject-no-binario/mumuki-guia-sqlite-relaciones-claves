@@ -4,8 +4,8 @@ Ya ves que cada obra tiene una única partitura asociada, y a la vez cada partit
 <div
   class='mu-erd'
   data-entities='{
-    "canciones": {
-      "id_cancion": {
+    "obras": {
+      "id_obra": {
         "type": "Integer",
         "pk": true
       },
